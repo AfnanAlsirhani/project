@@ -1,13 +1,13 @@
-# project MTA-EDA(Exploratory data analysis)
+# >> MTA-EDA(Exploratory data analysis)
 
-Problem Statement:
+* Problem Statement:
 Coffee Corp. is a small business that aims to expand their coffee shop branches in the train stations at New York City. in this project, DSS will analyze the turnstiles data for each station to find the busiest stations. Hence, recommending the best location for the new branches so that Coffee Corp. can achieve their goals to expand their coffee business.
 
 The analysis is intended to answer two questions:
 1- What are the top 5 busiest stations in NYC?
 2- What are the busiest days in NYC stations?
 
-TOOLS:
+* TOOLS:
 1-GIT-GitHub
 2-SQLite- SQLalchmey 
 3-Python-Jupiter 
@@ -19,7 +19,7 @@ plotly.graph_objects
 5-Tableau
 
 
-Project workfolw:
+* Project workfolw:
 Data Cleaning and preprossing :
 1-Remove the duplicate
 2-Delete extra spaces
@@ -31,10 +31,10 @@ Data Cleaning and preprossing :
 
 
 
-Visualizations:
+* Visualizations:
 you can find it at the attachments in my repo
 
-Recomndations:
+* Recomndations:
 1-I Highly recommends coffee corp. to open new branches next to the top 5 stations (23 ST,ST-PENN STA,GRD CNTRL-42 ST ,PAVONIA/NEWPORT, FULTON)
 2-open coffee shop branch next to exit of pavonia/newport station.
 3-recommends that you prepare to receive more customers in Friday .
