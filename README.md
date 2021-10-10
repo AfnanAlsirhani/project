@@ -9,6 +9,7 @@ The analysis is intended to answer two questions:
 2- What are the busiest days in NYC stations?
 
 * TOOLS:
+
 1-GIT-GitHub
 
 2-SQLite- SQLalchmey 
@@ -18,7 +19,9 @@ The analysis is intended to answer two questions:
 4-Libraries:
 
 Pandas-numpay
+
 Matplotlib-Seaborn
+
 plotly.express
 
 plotly.graph_objects
